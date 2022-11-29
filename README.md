@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yash-himself
+- 👋 Hi, I’m YASH GUPTA
 - 👀 I’m interested in front-end development coding.
 - 🌱 I’m currently learning react.js .✌️
--My online portfolio link is: https://sites.google.com/view/yashguptaportfolio/home-profile
-- 📫 How to reach me : @yashu.himself is my instagram handle.😊👌
+- 🧾My online CV link is: https://sites.google.com/view/yashguptaportfolio/home-profile
+- 📫 How to reach me : @yashu.himself is my instagram handle and you can send me a E-mail also.😊👌
