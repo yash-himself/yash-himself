@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLJ-FOMgg6xCfkNKBVPvJZXT7Yy80iTDUbgB-Z4euO0SiFwtKWV7ZW1szhCLKPhI1PlU&usqp=CAU)](https://yash-himself.io)
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coder" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsPZ89VsDn1cpn-YSpMoy0-WFHfL5I21LLA&usqp=CAU" >
+<img align="right" alt="Coder" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsPZ89VsDn1cpn-YSpMoy0-WFHfL5I21LLA&usqp=CAU" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-himself" alt="yash-himself" /></a> </p>
 
